@@ -1,0 +1,8 @@
+BS = 100, LR = 0.0001, SL = 1, Epochs = 147, Avg. loss = 0.8289824873209
+BS = 100, LR = 0.0001, SL = 1, Epochs = 139, Avg. loss = 0.828804099559784
+BS = 100, LR = 0.0001, SL = 1, Epochs = 126, Avg. loss = 0.8293153405189514
+BS = 100, LR = 0.0001, SL = 1, Epochs = 134, Avg. loss = 0.8292020589113236
+BS = 100, LR = 0.0001, SL = 1, Epochs = 130, Avg. loss = 0.8293622642755508
+BS = 100, LR = 0.0001, SL = 1, Epochs = 140, Avg. loss = 0.8287640064954758
+BS = 100, LR = 0.0001, SL = 1, Epochs = 146, Avg. loss = 0.8287347733974457
+BS = 100, LR = 0.0001, SL = 1, Epochs = 126, Avg. loss = 0.8289783805608749

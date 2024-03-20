@@ -1,0 +1,74 @@
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 147
+INFO:root:Loss @ last trained epoch: 0.8289824873209
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 147
+INFO:root:Loss @ last trained epoch: 0.8289824873209
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 147
+INFO:root:Loss @ last trained epoch: 0.8289824873209
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 147
+INFO:root:Loss @ last trained epoch: 0.8289824873209
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 147
+INFO:root:Loss @ last trained epoch: 0.8289824873209
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 147
+INFO:root:Loss @ last trained epoch: 0.8289824873209
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 139
+INFO:root:Loss @ last trained epoch: 0.828804099559784
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 126
+INFO:root:Loss @ last trained epoch: 0.8293153405189514
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 134
+INFO:root:Loss @ last trained epoch: 0.8292020589113236
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 130
+INFO:root:Loss @ last trained epoch: 0.8293622642755508
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 140
+INFO:root:Loss @ last trained epoch: 0.8287640064954758
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 146
+INFO:root:Loss @ last trained epoch: 0.8287347733974457
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 126
+INFO:root:Loss @ last trained epoch: 0.8289783805608749
+INFO:root:-------------------- TESTING ------------------------------
+INFO:root:Accuracy within a tolerance of 0.1: 55.30960784313726 %
+INFO:root:-------------------- TESTING ------------------------------
+INFO:root:Accuracy within a tolerance of 0.1: 55.26372549019608 %
+INFO:root:-------------------- TRAINING ------------------------------
+INFO:root:CN: 4
+INFO:root:SL: 1
+INFO:root:Last trained epoch: 143
+INFO:root:Loss @ last trained epoch: 0.8286424845457077
