@@ -1,4 +1,4 @@
-# Conductivity-Reconstruction-using-Invertible-Neural-Networks-after-sensor-reduction
+# Current Distribution (Conductivity) Reconstruction with Invertible Neural Networks after Sensor Reduction
 Research Project : M1107-CMS05
 
 ## Overview
